@@ -4,7 +4,7 @@
 
 This dataset contains information about 10,000 movies collected from The Movie Database (TMDb), including user ratings and revenue,cast,release year.
 
-# Tools
+# Tools:
 - Python
 
 - Numpy
